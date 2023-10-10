@@ -3,9 +3,9 @@
 
 
 ## 🚀 About Me
-I am a passionate data analyst from the Dominican Republic, looking for great opportunities to develop my skills. I have great interest in, artificial intelligence, human-computer interactions, and everything in between.
+I am a passionate technologist from the Dominican Republic, looking for great opportunities to develop my skills. I have great interest in, artificial intelligence, human-computer interactions, and everything in between.
 ## 🛠 Skills
-Python with Pandas, Numpy, Matplotlib
+Python with Pandas, Numpy, Matplotlib, SQL
 Excel, Microsoft Power BI are technologies that I use for Analysis and Science of Data and ML
 
 
@@ -20,10 +20,7 @@ Data Analysis with Python(FreeCodeCamp)
 ## Projects
 
 My projects are located right here in my github repositories. I have some Data Analysis and ML Projects
-🧠 I'm currently learning Scikit-Lean and SQL
-
-
-💬 Ask me about Python, Pandas, Numpy, MatplotLib 
+🧠 I'm currently learning Scikit-Lean
 
 
 📫 How to reach me: enmanuel02bnunez@gmail.com
