@@ -6,7 +6,7 @@
 I am a passionate technologist from the Dominican Republic, looking for great opportunities to develop my skills. I have great interest in, artificial intelligence, human-computer interactions, and everything in between.
 ## 🛠 Skills
 Python with Pandas, Numpy, Matplotlib, SQL
-Excel, Microsoft Power BI are technologies that I use for Analysis and Science of Data and ML
+Excel, Microsoft Power BI are technologies that I use for Data Analysis and Coding.
 
 
 ## Knowledge
