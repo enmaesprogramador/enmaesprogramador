@@ -1,21 +1,21 @@
 # Hi, I'm Carlos! 👋
 
-## 🚀 Passionate Full Stack Developer | .NET/C#, SQL Server Specialist | Flutter 
+## 🚀Software Developer:
+As a Software Developer, I am responsible for designing, developing, and maintaining software applications. I write clean, efficient, and scalable code, debug and troubleshoot issues, and collaborate with cross-functional teams to deliver high-quality software solutions. I have a solid understanding of software development methodologies.
 
-As a dedicated backend developer with a robust foundation in .NET/C# and SQL Server databases, I specialize in crafting high-performance solutions that drive seamless user experiences. My technological journey is marked by a relentless pursuit of excellence, and I am excited to embrace the challenges as an established Full Stack Developer.
+## 🌐REST API's Developer:
+As a REST API Developer, I focus on creating and managing RESTful web services that enable seamless communication between different software applications. I design API endpoints, ensure proper authentication and authorization, and optimize performance and security. I have a deep understanding of HTTP protocols, API testing tools, and best practices for API design.
 
-## 🛠️ Technical Expertise:
+## 💾T-SQL Developer:
+As a T-SQL Developer, I specialize in writing and optimizing Transact-SQL queries and scripts for managing and manipulating data within Microsoft SQL Server databases. I create stored procedures, functions, triggers, and views, ensuring data integrity and performance tuning of database queries.
 
-Backend: Proficient in developing high-performance backend solutions using .NET/C#.
+## 🗄️MSSQL Developer:
+As an MSSQL Developer, I work with Microsoft SQL Server to design, develop, and maintain database solutions. I am involved in database schema design, data migration, and writing complex SQL queries. I also focus on performance optimization, backup and recovery planning, and ensuring database security.
 
-Database: Adept at designing and optimizing SQL Server databases for efficiency and reliability.
+## ⚙️Windows Services Developer:
+As a Windows Services Developer, I develop and maintain Windows Services applications that run in the background to perform essential system functions. I create services that start automatically with the operating system, handling tasks such as logging, monitoring, and automation. I am familiar with the .NET framework, C#, and service lifecycle management.
 
-Flutter : With a knack for creating immersive and responsive user interfaces, I am passionate about exploring the limitless potential of Flutter. Committed to crafting cutting-edge applications that redefine user experiences across diverse platforms. Let's shape the future of development together! 🌐📱
+## 🖥️Desktop Developer:
+As a Desktop Developer, I am responsible for creating and maintaining desktop applications that run on Windows or other operating systems. I design user interfaces, implement application logic, and ensure seamless integration with other software components.
 
-## 🌟 What Drives Me:
-I am fueled by the belief that technology can reshape the way we live and work. Every line of code I write is a stride towards creating impactful solutions that make a difference.
-
-## 🤝 Let's Connect:
-Open to networking, collaboration, and exciting opportunities. Let's connect and explore how we can create something extraordinary together.
-
-📫 How to reach me: enmanuel02bnunez@gmail.com
+Each of these roles leverages my unique skills and expertise to contribute significantly to the development and maintenance of robust, reliable software systems.
