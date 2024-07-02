@@ -19,3 +19,5 @@ I develop and maintain Windows Services applications that perform background tas
 I create and maintain desktop applications for Windows, design user interfaces, implement application logic, and ensure integration with other software components.
 
 Each role utilizes my skills to develop and maintain reliable software systems.
+
+- [ ] Make tols
